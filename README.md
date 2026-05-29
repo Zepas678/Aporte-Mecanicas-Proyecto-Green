@@ -11,7 +11,7 @@ Este repositorio contiene el núcleo técnico desarrollado para el **Proyecto Gr
 * **IA de Robots:** Lógica de comportamiento, detección de objetivos y patrones de ataque.
 * **Sistema de Armas:** Implementación de mecánicas de combate y cambio de proyectiles.
 * **Controlador de Personaje:** Sistema de movimiento, salto e interacciones físicas optimizadas.
-* **Animaciones:** Integración de máquinas de estado (Animators) para Dr. Prisma y Green.
+* **Animaciones:** Integración de máquinas de estado (Animators) para Enemigos y Green.
 
 ## 📁 Estructura del Repositorio
 * `/Assets/Scritps`: Scripts de C# con toda la lógica de programación.
