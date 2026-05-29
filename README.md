@@ -1,4 +1,8 @@
 # 🌿 Proyecto Green - Aporte: IA y Mecánicas Principales
+
+https://github.com/user-attachments/assets/e38ad08f-4d6f-4c19-9a2a-2f5a8f7fcd86
+
+
 ## Repositorio de Juan Pablo Zea
 
 Este repositorio contiene el núcleo técnico desarrollado para el **Proyecto Green**. El enfoque principal de este aporte es la implementación de la Inteligencia Artificial de los enemigos (robots) y el sistema de control del personaje principal.
