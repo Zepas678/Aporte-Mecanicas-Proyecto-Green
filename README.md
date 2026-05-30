@@ -37,6 +37,8 @@ https://github.com/user-attachments/assets/81b58933-202c-4875-8cb9-d42b794b3c9a
 **Desarrollados por:** Juan Pablo Zea, Daniel Felipe Ariaz, Maria Fernanda Rodrigues, Jimenez Nicolas, Alberto Agudelo Ovalle y Willian Andres Vargas Londoñ
 
 **Institución:** SENA (Servicio Nacional de Aprendizaje) 
+**Proyecto Completo:**
+https://drive.google.com/drive/folders/1FqYrraDoeFHRWLdeKWJeoUCVvtFX_csN
 
 
 
