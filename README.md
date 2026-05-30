@@ -18,6 +18,12 @@ Este repositorio contiene el núcleo técnico desarrollado para el **Proyecto Gr
 * `/Assets/Prephas`: Prefabs configurados con componentes de física e IA.
 * `/Assets/Animators`: Controladores de animación y lógica de estados.
 
+
+
+https://github.com/user-attachments/assets/963cc6cf-4d54-4fa5-a7d8-a5371b8c70ac
+https://github.com/user-attachments/assets/e7f330bc-959b-41c3-b223-ba42dd18b2e8
+
+
 ## 🛠️ Tecnologías Utilizadas
 * **Motor:** Unity 2022.x / 2023.x
 * **Lenguaje:** C# (.NET)
@@ -26,4 +32,10 @@ Este repositorio contiene el núcleo técnico desarrollado para el **Proyecto Gr
 ---
 **Desarrollados por:** Juan Pablo Zea, Daniel Felipe Ariaz, Maria Fernanda Rodrigues, Jimenez Nicolas, Alberto Agudelo Ovalle y Willian Andres Vargas Londoñ
 
-**Institución:** SENA (Servicio Nacional de Aprendizaje)  
+**Institución:** SENA (Servicio Nacional de Aprendizaje) 
+
+
+
+https://github.com/user-attachments/assets/81b58933-202c-4875-8cb9-d42b794b3c9a
+
+
